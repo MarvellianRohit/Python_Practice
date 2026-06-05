@@ -1,0 +1,7 @@
+# Compiled Binaries
+anagram
+palindrome
+
+# IDE configuration
+.vscode/
+.DS_Store

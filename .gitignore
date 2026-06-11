@@ -5,3 +5,8 @@ palindrome
 # IDE configuration
 .vscode/
 .DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
